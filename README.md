@@ -1,3 +1,9 @@
-# practice-1
+# Landing page for bakery
 
-web for bakers/ landing 
+**The site is under development:**
+* standard fonts are used;
+* the remaining pages have not been added;
+* without js.
+
+# I'll finish it someday
+
